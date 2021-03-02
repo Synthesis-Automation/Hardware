@@ -4,7 +4,7 @@
 
 //Pin definition is from ramps 1.4 using Mega2560
 //interupt pins for Mega2560: 2, 3, 18, 19, 20, 21
-//Small switch 0(LOW) for switch trigged, normal = 1(HIGH), thee backwire is not used.
+//Small switch 0(LOW) for switch trigged, normal = 1(HIGH), the blackwire is not used.
 //Tablet stepper, microstepping = 2, //4 mm screw
 //steps_per_mm = 5000/50 = 100
 
